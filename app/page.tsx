@@ -45,7 +45,7 @@ export default function Home() {
             className="relative"
         >
           <img
-            src=""https://github.com/tab-try.png""
+            src="https://github.com/tab-try.png"
             alt="Profile"
             className="w-28 h-28 rounded-full border-2 border-white/20 shadow-2xl mb-4 object-cover backdrop-blur-md"
           />
