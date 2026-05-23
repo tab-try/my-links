@@ -5,11 +5,11 @@ import { Globe, Mail } from "lucide-react";
 import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const links = [
-  { name: "My Portfolio", url: "https://yourwebsite.com", icon: <Globe size={20} /> },
-  { name: "GitHub", url: "https://github.com", icon: <FaGithub size={20} /> },
+  { name: "My Portfolio", url: "https://haricharan.dpdns.org", icon: <Globe size={20} /> },
+  { name: "GitHub", url: "https://github.com/tab-try", icon: <FaGithub size={20} /> },
   { name: "LinkedIn", url: "https://linkedin.com", icon: <FaLinkedin size={20} /> },
   { name: "Twitter / X", url: "https://twitter.com", icon: <FaTwitter size={20} /> },
-  { name: "Contact Me", url: "mailto:hello@example.com", icon: <Mail size={20} /> },
+  { name: "Contact Me", url: "mailto:tab386339@gmail.com", icon: <Mail size={20} /> },
 ];
 
 export default function Home() {
@@ -45,7 +45,7 @@ export default function Home() {
             className="relative"
         >
           <img
-            src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix"
+            src=""https://github.com/tab-try.png""
             alt="Profile"
             className="w-28 h-28 rounded-full border-2 border-white/20 shadow-2xl mb-4 object-cover backdrop-blur-md"
           />
